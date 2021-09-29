@@ -1,0 +1,11 @@
+.sideinputvalue{
+    width: 200px;
+    height: max-content;
+    background-color: transparent;
+    padding: 15px;
+}
+
+.resultval{
+    color: rgb(122, 79, 21);
+    font-size: x-large;
+}

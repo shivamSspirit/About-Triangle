@@ -1,0 +1,32 @@
+.lableforbasevalue{
+    margin-bottom:12px;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.lableforheightvalue{
+    margin-bottom:12px;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.baseinputvalue{
+    width: 200px;
+    height: max-content;
+    background-color: transparent;
+    padding: 15px;
+    
+}
+
+
+.heightinputvalue{
+    width: 200px;
+    height: max-content;
+    background-color: transparent;
+    padding: 15px;
+}
+
+.result-val{
+    color: rgb(165, 87, 22);
+    font-size: x-large;
+}
